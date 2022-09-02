@@ -1,2 +1,4 @@
-# Predictive_Analytics_Spotify_Report
-Group Project on Spotify Dataset
+# Predictive Analytics Spotify Report
+
+This is a Group Project during my studies in UCL MSc Business Analytics. It is a Machine Learning project using a Spotify Dataset.
+
